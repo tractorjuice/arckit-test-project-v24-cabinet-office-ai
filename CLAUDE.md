@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is an **ArcKit architecture governance project** — not a software codebase. It generates architecture documents (markdown) for the **Cross-Government AI Governance Framework** at Cabinet Office, including Number 10 Data Science (No.10 DS) and the Incubator for AI (i.AI).
+This is an **ArcKit architecture governance project** — not a software codebase. It generates architecture documents (markdown) for the **Cross-Government AI Governance Framework** at the Cabinet Office (CO).
 
 There is no build system, test suite, or application code. All work is done through ArcKit slash commands that generate governance artifacts.
 
@@ -68,7 +68,7 @@ Expected artifacts for project 001 (Cross-Government AI Governance Framework):
 
 ## Project Context
 
-The Cabinet Office supports the Prime Minister and coordinates policy across government. The Number 10 Data Science team (No.10 DS) provides data science capability to Downing Street, while the Incubator for AI (i.AI) builds and deploys AI products across government departments. Together, they are developing a cross-government framework for responsible AI adoption, building on the AI Playbook and Algorithmic Transparency Recording Standard (ATRS).
+The Cabinet Office supports the Prime Minister and ensures effective running of government. It coordinates policy across departments, drives efficiency and reform, and provides leadership on cross-cutting priorities. As AI adoption accelerates across government, the Cabinet Office is developing a cross-government governance framework to ensure consistent, responsible, and effective AI deployment — building on the AI Playbook, Algorithmic Transparency Recording Standard (ATRS), and Central Digital & Data Office (CDDO) standards.
 
 ### Compliance Context
 
@@ -76,4 +76,4 @@ UK Government central department. Applicable frameworks: GDS Service Standard, T
 
 ### Key Stakeholders
 
-Cabinet Office (policy owner), No.10 DS (data science), i.AI (AI products), CDDO (digital/data standards), DSIT (AI policy), all government departments (adopters), GDS (service standards), ICO (data protection), NCSC (cyber security).
+Cabinet Office (policy owner), CDDO (digital/data standards), DSIT (AI policy), No.10 DS (data science — separate project), i.AI (AI products — separate project), all government departments (adopters), GDS (service standards), ICO (data protection), NCSC (cyber security).

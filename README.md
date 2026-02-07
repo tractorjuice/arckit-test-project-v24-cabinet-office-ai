@@ -1,16 +1,16 @@
-# Cabinet Office, including Number 10 Data Science (No.10 DS) and the Incubator for AI (i.AI) (CO) — Cross-Government AI Governance Framework
+# Cabinet Office (CO) — Cross-Government AI Governance Framework
 
-An architecture governance project using [ArcKit](https://github.com/tractorjuice/arc-kit) to design and govern the **Cross-Government AI Governance Framework** for **Cabinet Office**.
+An architecture governance project using [ArcKit](https://github.com/tractorjuice/arc-kit) to design and govern the **Cross-Government AI Governance Framework** for the **Cabinet Office**.
 
 ## Background
 
-The Cabinet Office supports the Prime Minister and coordinates policy across government. The Number 10 Data Science team (No.10 DS) provides data science capability to Downing Street, while the Incubator for AI (i.AI) builds and deploys AI products across government departments. Together, they are developing a cross-government framework for responsible AI adoption, building on the AI Playbook and Algorithmic Transparency Recording Standard (ATRS).
+The Cabinet Office supports the Prime Minister and ensures effective running of government. It coordinates policy across departments, drives efficiency and reform, and provides leadership on cross-cutting priorities. As AI adoption accelerates across government, the Cabinet Office is developing a cross-government governance framework to ensure consistent, responsible, and effective AI deployment — building on the AI Playbook, Algorithmic Transparency Recording Standard (ATRS), and Central Digital & Data Office (CDDO) standards.
 
 ## Project Scope
 
 | Area | Description |
 |------|-------------|
-| **AI Assurance Framework** | Standardised risk assessment and assurance methodology for AI across government |
+| **AI Governance Framework** | Cross-government governance structure for AI adoption, accountability, and oversight |
 | **Departmental AI Readiness** | Assessment toolkit for AI maturity, capability, and governance in departments |
 | **Cross-Government AI Register** | Central register of AI systems in use across government departments |
 | **AI Ethics Board** | Governance structure for cross-cutting AI ethical decisions |
@@ -45,13 +45,13 @@ claude
 /arckit.principles
 
 # Then create project requirements
-/arckit.requirements Cross-Government AI Governance Framework - standardising AI adoption, risk assessment, and assurance across all UK Government departments
+/arckit.requirements Cross-Government AI Governance Framework - establishing consistent AI governance, accountability, and oversight across all UK Government departments
 ```
 
 ## Key References
 
 - [Cabinet Office - GOV.UK](https://www.gov.uk/government/organisations/cabinet-office)
-- [Incubator for AI (i.AI)](https://ai.gov.uk/)
+- [Central Digital & Data Office (CDDO)](https://www.gov.uk/government/organisations/central-digital-and-data-office)
 - [AI Playbook](https://www.gov.uk/government/publications/ai-playbook)
 - [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub)
 
